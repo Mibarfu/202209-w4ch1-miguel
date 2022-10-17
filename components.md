@@ -31,6 +31,7 @@
 The received gentleman's data:
 
 - Show name in header
+- show icon with initial name.
 - Show the picture
 - Shows the data, profession, status and twitter.
 
